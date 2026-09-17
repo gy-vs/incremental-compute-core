@@ -1,2 +1,1 @@
-# incremental-compute-core
-Demand-driven incremental computation primitives
+incremental-compute-core
